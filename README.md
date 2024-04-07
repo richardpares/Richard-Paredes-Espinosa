@@ -1,6 +1,6 @@
 ### Hi, I am Richard.
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+Credit: [@Richard Paredes-Espinosa]
 
-Last Edited on: 29/4/2023
+Last Edited on: 6/4/2024
